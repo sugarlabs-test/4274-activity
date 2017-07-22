@@ -1,6 +1,6 @@
 [Activity]
 name = Fortune Maker
-service_name = org.laptop.MAFH.Creator
+bundle_id = org.laptop.MAFH.Creator
 class = FortuneMaker.FortuneMaker
 icon = fm-icon
 mime_types=application/x-fortune-map
